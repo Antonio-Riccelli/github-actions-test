@@ -1,0 +1,28 @@
+name: Antonio
+age: 31
+address: England
+active: true
+key:
+    key: value
+    key2: value2
+    key3:
+        key4: value
+jsonObject: {
+  key: value,
+  key2: 33,
+  key3: {
+  key4: 4}
+}
+array:
+    - item1
+    - item2
+    - { key: value }
+jsonArray: [item1, item2]
+objectsArray:
+    - key: value
+      key2: value2
+    - key: value
+      key2: value2
+longText: |
+          abrabara abrabara 
+          abrabara abrabara
